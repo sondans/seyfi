@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am sondans on github.
+  * I am sondansim (https://keybase.io/sondansim) on keybase.
+  * I have a public key ASByPC27tIEChcFIJCHOhlgvRPkepSniPV0S5B2L9v5Zkwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101afd977828a5ad626359fda759df564f43d2d8ba7e9d48ca61c3732b1d0800b1a0a",
+      "host": "keybase.io",
+      "kid": "0120723c2dbbb4810285c1482421ce86582f44f91ea529e23d5d12e41d8bf6fe59930a",
+      "uid": "9b75ea607b9dd28dc4d88e84881d5819",
+      "username": "sondansim"
+    },
+    "merkle_root": {
+      "ctime": 1571915750,
+      "hash": "a2aacd8014464f405596f3c3a80a6764e2424e9ecc03d8be82a88c3c2db2f573a849cf3e35f9358940dcada68fdfb259f10b4e7895eba74fe277632f0506b947",
+      "hash_meta": "13276683818af3445b99c00a97fd291eb48e7968508cbe171531fe5c55d0f874",
+      "seqno": 8362903
+    },
+    "service": {
+      "entropy": "LJGQWdVHMCrkax1X76yP7lPC",
+      "name": "github",
+      "username": "sondans"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.0"
+  },
+  "ctime": 1571915770,
+  "expire_in": 504576000,
+  "prev": "49da9d35aa8ac0c6c2efafb2e04d2da29b6e2098afff039d5b84bfb8487db87e",
+  "seqno": 9,
+  "tag": "signature"
+}
+```
+
+with the key [ASByPC27tIEChcFIJCHOhlgvRPkepSniPV0S5B2L9v5Zkwo](https://keybase.io/sondansim), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcjwtu7SBAoXBSCQhzoZYL0T5HqUp4j1dEuQdi/b+WZMKp3BheWxvYWTESpcCCcQgSdqdNaqKwMbC76+y4E0toptuIJiv/wOdW4S/uEh9uH7EIJ1v3pzcjDg5EkMWFPvRxZFGoaVIv9e1BN375dcMtXhIAgHCo3NpZ8RAD8pPEB5Vh46xnjp5TApY1Mxb/ChaPv0BjXjaUu8699UGwKHvAn9mH2QjmvgzTSKWZy1Nku9cPIvIbmK7Y6VFBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBNhx0tgv7NI4fkFRD1KncQHFCAEkWhzQcjrsLaIrbPso3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/sondansim
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id sondansim
+```
